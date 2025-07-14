@@ -3,6 +3,8 @@
 **SURUWA** is a desktop application built with Python and Tkinter, designed to **predict, alert, and protect African populations from flood risks**. It was developed during a hackathon and integrates real-time weather data and interactive maps to empower both citizens and crisis managers.
 
 ---
+<img width="1590" height="857" alt="Dashboard_suruwa" src="https://github.com/user-attachments/assets/258c07b6-40b0-4d90-a75c-7663127cfe2d" />
+
 
 ## 🔍 Why "SURUWA"?
 
